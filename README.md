@@ -1,7 +1,7 @@
 # Web Technologies Syllabus
 
-* **Course:** CPTR 305 - Web Technologies
-* **Instructor:** Cody Johnsone, [dosheese@gmail.com](mailto:barberboy@gmail.com)
+* **Course:** CPTR 335 - Web Technologies
+* **Instructor:** Ben Barber, [barberboy@gmail.com](mailto:barberboy@gmail.com)
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/unioncollege-webtech)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
